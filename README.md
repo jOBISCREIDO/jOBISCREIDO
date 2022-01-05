@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jOBISCREIDO
-- 👀 I’m interested in js
+- 👀 I’m interested in learning anything
 - 🌱 I’m currently learning basics of js
 - 💞️ ...
 
